@@ -1,3 +1,1 @@
-# packages.txt — Dipasang otomatis oleh Streamlit Cloud via apt
-# Rclone tersedia di Ubuntu 22.04 repos
 rclone
